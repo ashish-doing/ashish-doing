@@ -9,6 +9,7 @@ ECE undergrad at IIIT Guwahati (Batch 2024), building in AI/ML and intelligent a
 **Certificates:** Google × Kaggle AI Agents Intensive · Generative AI Mastermind (Outskill)
 
 **Currently learning:** Reinforcement Learning for Robotics
+
 ---
 
 🏆 **Supply Chain Disruption Environment** — Scaler × Meta PyTorch Hackathon  
