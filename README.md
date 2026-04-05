@@ -2,9 +2,12 @@
 
 ECE undergrad at IIIT Guwahati (Batch 2024), building in AI/ML and intelligent agent systems.
 
-**Focus:** LLM Agents · Reinforcement Learning · Robotics · Applied ML  
+**Focus:** LLM Agents · Reinforcement Learning · Robotics · Applied ML
+
 **Stack:** Python · PyTorch · Docker · HuggingFace · OpenEnv
+
 **Certificates:** Google × Kaggle AI Agents Intensive · Generative AI Mastermind (Outskill)
+
 **Currently learning:** Reinforcement Learning for Robotics
 ---
 
