@@ -26,9 +26,10 @@ ECE undergrad at **IIIT Guwahati** (Batch 2024), building in AI/ML and intellige
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-doing&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800)
+![Ashish's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-doing&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-doing&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish-doing&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashish-doing&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashish-doing&theme=tokyonight&hide_border=true)
 
