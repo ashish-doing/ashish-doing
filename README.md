@@ -3,13 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-014aaa3b9/)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow?style=flat-square)](https://huggingface.co/ashish-doing)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ashish.kumar.doing@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2ea44f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashish-doing/ashish-doing/raw/main/Ashish_Kumar_Resume.pdf)
 
 ---
 
 ECE undergrad at **IIIT Guwahati** (Batch 2024), building in AI/ML and intelligent agent systems.
 
-- 🎯 **Focus:** LLM Agents · Reinforcement Learning · Robotics · Applied ML
-- 🛠️ **Stack:** Python · PyTorch · Docker · HuggingFace · OpenEnv
+- 🎯 **Focus:** LLM Agents · Reinforcement Learning · MLOps · Robotics · Applied ML
+- 🛠️ **Stack:** Python · PyTorch · LangGraph · Docker · HuggingFace · OpenEnv
 - 📜 **Certificates:** Google × Kaggle AI Agents Intensive · Generative AI Mastermind (Outskill)
 - 📚 **Currently learning:** Reinforcement Learning for Robotics
 - 💡 Open to internships and collaborations
@@ -21,16 +22,16 @@ ECE undergrad at **IIIT Guwahati** (Batch 2024), building in AI/ML and intellige
 | Title | Description | Technologies |
 |-------|-------------|--------------|
 | [🏭 openenv-supply-chain](https://github.com/ashish-doing/openenv-supply-chain) | RL environment where an LLM agent manages real-world supply chain crises — Scaler × Meta PyTorch Hackathon 🥇 · [Live Demo](https://ashish-doing-supply-chain-env-hf.hf.space/quick/demo) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow?style=flat-square) |
+| [🤖 autostream-agent](https://github.com/ashish-doing/autostream-agent) | Production-ready conversational AI agent with LangGraph state graph, RAG pipeline, and deterministic multi-turn lead capture | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) |
+| [📊 mlops-signal-pipeline](https://github.com/ashish-doing/mlops-signal-pipeline) | Reproducible MLOps batch pipeline: 10k-row OHLCV → rolling-mean signal → structured JSON metrics · [Live Dashboard](https://ashish-doing.github.io/mlops-signal-pipeline/dashboard_demo.html) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Ashish's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish-doing&theme=tokyonight)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashish-doing&theme=tokyonight)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashish-doing&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashish-doing&theme=tokyonight&hide_border=true)
 
 ---
