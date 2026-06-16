@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashish.kumar24b@iiitg.ac.in)
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2ea44f?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashish-doing/ashish-doing/raw/main/Ashish_Kumar_Resume.pdf)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishk4659)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/ashish-kumar.6b99caca)
 
 </div>
 
@@ -72,14 +73,19 @@ ECE undergrad at **IIIT Guwahati** (Batch 2028), building in AI/ML and intellige
 
 ## 📜 Certifications
 
+<a href="https://www.credly.com/badges/04d4c3f0-0002-485e-8bc4-1b77e639d849/public_url">
+  <img src="https://images.credly.com/size/150x150/images/04d4c3f0-0002-485e-8bc4-1b77e639d849/image.png" alt="Google Cloud Skill Badge" width="100"/>
+</a>
+
 | Certification | Issuer | Status |
 |--------------|--------|--------|
 | AI Skills Fest 2026 | Microsoft | ✅ Completed Jun 2026 |
 | ML Specialization | Andrew Ng / Coursera | 📚 In Progress |
 | 5-Day AI Agents Intensive | Google × Kaggle | ✅ Completed |
 | AI Builders Challenge | IBM SkillsBuild | ✅ Active Member |
-| Lab Sprint 2026 | e-Yantra, IIT Bombay | 📚 In Progress |
+| Lab Sprint 2026 | e-Yantra, IIT Bombay | ✅ Completed |
 | Builders Program Cohort 2 | Cyberwave | ✅ Core Builder |
+| Google Cloud Compute Skill Badge | Google Cloud | ✅ Earned |
 
 ---
 
