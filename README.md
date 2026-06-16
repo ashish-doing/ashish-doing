@@ -74,7 +74,7 @@ ECE undergrad at **IIIT Guwahati** (Batch 2028), building in AI/ML and intellige
 ## 📜 Certifications
 
 <a href="https://www.credly.com/badges/04d4c3f0-0002-485e-8bc4-1b77e639d849/public_url">
-  <img src="https://images.credly.com/size/150x150/images/04d4c3f0-0002-485e-8bc4-1b77e639d849/image.png" alt="Google Cloud Skill Badge" width="100"/>
+  <img src="./google-cloud-badge.png" alt="Google Cloud Skill Badge" width="100"/>
 </a>
 
 | Certification | Issuer | Status |
