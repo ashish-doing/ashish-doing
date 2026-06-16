@@ -38,4 +38,49 @@ ECE undergrad at **IIIT Guwahati** (Batch 2028), building in AI/ML and intellige
 ### Other Builds
 
 | Title | Description | Technologies |
-|-------|-------------|--
+|-------|-------------|--------------|
+| [autostream-agent](https://github.com/ashish-doing/autostream-agent) | Production conversational AI agent — LangGraph state graph, RAG pipeline, multi-turn lead capture | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) |
+| [mlops-signal-pipeline](https://github.com/ashish-doing/mlops-signal-pipeline) | MLOps batch pipeline: 10k-row OHLCV → rolling-mean signal → structured JSON metrics · [Dashboard](https://ashish-doing.github.io/mlops-signal-pipeline/dashboard_demo.html) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+## 🏆 Hackathons & Competitions
+
+| Result | Event | Project |
+|--------|-------|---------|
+| 🥇 Grand Finale | Meta × PyTorch × Scaler AI Hackathon | Supply Chain RL Environment |
+| ✅ Submitted | IBM SkillsBuild AI Builders Challenge | PitWall F1 Copilot |
+| ✅ Submitted | Google Cloud Rapid Agent Hackathon | RepoTerrain |
+| ✅ Submitted | Bright Data Web Data Hackathon | LexScout |
+| ✅ Submitted | Splunk Agentic Ops Hackathon | AgentWatch |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-doing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-doing&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashish-doing&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|--------------|--------|--------|
+| AI Skills Fest 2026 | Microsoft | ✅ Completed Jun 2026 |
+| ML Specialization | Andrew Ng / Coursera | 📚 In Progress |
+| 5-Day AI Agents Intensive | Google × Kaggle | ✅ Completed |
+| AI Builders Challenge | IBM SkillsBuild | ✅ Active Member |
+| Lab Sprint 2026 | e-Yantra, IIT Bombay | ✅ Completed |
+| Builders Program Cohort 2 | Cyberwave | ✅ Core Builder |
+
+---
+
+<div align="center">📍 Guwahati, India</div>
